@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from src.modeling.model import load_best_model
+from src.modeling.tools import load_best_model
 import numpy as np
 
 st.title('Time Series Classification App')
