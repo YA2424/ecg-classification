@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/911493252910046327/2c09654596724f8ca424cab012e2a426/artifacts
+end_time: 1713993368960
+entry_point_name: ''
+experiment_id: '911493252910046327'
+lifecycle_stage: active
+run_id: 2c09654596724f8ca424cab012e2a426
+run_name: salty-snipe-129
+run_uuid: 2c09654596724f8ca424cab012e2a426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713993362686
+status: 3
+tags: []
+user_id: a

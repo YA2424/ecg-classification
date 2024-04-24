@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/250017117451812396/25dc8062f89c42d493b906a294818b97/artifacts
+end_time: 1713993254704
+entry_point_name: ''
+experiment_id: '250017117451812396'
+lifecycle_stage: active
+run_id: 25dc8062f89c42d493b906a294818b97
+run_name: aged-skunk-821
+run_uuid: 25dc8062f89c42d493b906a294818b97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713993246477
+status: 3
+tags: []
+user_id: a

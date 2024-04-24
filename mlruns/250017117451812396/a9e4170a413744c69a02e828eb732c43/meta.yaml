@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/250017117451812396/a9e4170a413744c69a02e828eb732c43/artifacts
+end_time: 1713993231510
+entry_point_name: ''
+experiment_id: '250017117451812396'
+lifecycle_stage: active
+run_id: a9e4170a413744c69a02e828eb732c43
+run_name: able-sponge-482
+run_uuid: a9e4170a413744c69a02e828eb732c43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713993223813
+status: 3
+tags: []
+user_id: a

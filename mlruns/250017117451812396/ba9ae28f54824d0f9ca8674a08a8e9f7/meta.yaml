@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/250017117451812396/ba9ae28f54824d0f9ca8674a08a8e9f7/artifacts
+end_time: 1713993328841
+entry_point_name: ''
+experiment_id: '250017117451812396'
+lifecycle_stage: active
+run_id: ba9ae28f54824d0f9ca8674a08a8e9f7
+run_name: intrigued-squid-748
+run_uuid: ba9ae28f54824d0f9ca8674a08a8e9f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713993320649
+status: 3
+tags: []
+user_id: a
