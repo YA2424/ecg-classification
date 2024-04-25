@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/250017117451812396/65ebdf52c45344a7872f7672c97afebe/artifacts
+end_time: 1713993286301
+entry_point_name: ''
+experiment_id: '250017117451812396'
+lifecycle_stage: active
+run_id: 65ebdf52c45344a7872f7672c97afebe
+run_name: beautiful-zebra-532
+run_uuid: 65ebdf52c45344a7872f7672c97afebe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713993277806
+status: 3
+tags: []
+user_id: a

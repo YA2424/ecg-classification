@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/250017117451812396/d32e10469bf0405291e8c4fd6b4ee042/artifacts
+end_time: 1713993246474
+entry_point_name: ''
+experiment_id: '250017117451812396'
+lifecycle_stage: active
+run_id: d32e10469bf0405291e8c4fd6b4ee042
+run_name: luxuriant-ant-643
+run_uuid: d32e10469bf0405291e8c4fd6b4ee042
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713993238862
+status: 3
+tags: []
+user_id: a

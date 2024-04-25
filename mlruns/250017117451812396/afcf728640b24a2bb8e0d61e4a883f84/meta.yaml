@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/250017117451812396/afcf728640b24a2bb8e0d61e4a883f84/artifacts
+end_time: 1713993344588
+entry_point_name: ''
+experiment_id: '250017117451812396'
+lifecycle_stage: active
+run_id: afcf728640b24a2bb8e0d61e4a883f84
+run_name: defiant-bird-930
+run_uuid: afcf728640b24a2bb8e0d61e4a883f84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713993337335
+status: 3
+tags: []
+user_id: a
