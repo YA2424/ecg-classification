@@ -1,8 +1,8 @@
 # ECG Classification with Deep Learning
 
-This repository contains Python code for an example of deep learning model that classifies the ECG5000 dataset. The model is implemented using tensorflow.
+This repository contains Python code for an example of deep learning model that classifies the ECG5000 dataset. The model is implemented using tensorflow. Hyperparameters are tuned using baysian optimization.
 
-# 
+
 
 ## Dataset
 
@@ -52,8 +52,12 @@ To set up the project environment, follow these steps:
     ```bash
     poetry install
     ```
+    
+6. Run streamlit app
+    ```bash
+    streamlit run src/time_series_classification/streamlit_app/app.py
 
-6. (Optional) If you prefer Docker deployment, build the Docker image:
+7. (Optional) If you prefer Docker deployment, build the Docker image:
 
     ```bash
     docker build -t ecg-classification .
