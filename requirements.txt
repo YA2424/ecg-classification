@@ -1,4 +1,0 @@
-streamlit
-mlflow
-tensorflow
-keras
