@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/bdce2f19229c42dd8fd2eb6c4a9ee7dd/artifacts
+end_time: 1714143072375
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: bdce2f19229c42dd8fd2eb6c4a9ee7dd
+run_name: flawless-crab-336
+run_uuid: bdce2f19229c42dd8fd2eb6c4a9ee7dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714143049414
+status: 3
+tags: []
+user_id: a

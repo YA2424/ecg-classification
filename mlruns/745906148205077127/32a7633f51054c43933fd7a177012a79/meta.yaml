@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/32a7633f51054c43933fd7a177012a79/artifacts
+end_time: 1714142930570
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 32a7633f51054c43933fd7a177012a79
+run_name: unleashed-mule-22
+run_uuid: 32a7633f51054c43933fd7a177012a79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714142880522
+status: 3
+tags: []
+user_id: a

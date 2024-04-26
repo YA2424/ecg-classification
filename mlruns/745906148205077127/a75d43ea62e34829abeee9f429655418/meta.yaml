@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/a75d43ea62e34829abeee9f429655418/artifacts
+end_time: 1714142665388
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: a75d43ea62e34829abeee9f429655418
+run_name: whimsical-turtle-356
+run_uuid: a75d43ea62e34829abeee9f429655418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714142627151
+status: 3
+tags: []
+user_id: a

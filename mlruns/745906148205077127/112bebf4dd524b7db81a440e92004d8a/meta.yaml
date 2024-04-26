@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/112bebf4dd524b7db81a440e92004d8a/artifacts
+end_time: 1714142809875
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 112bebf4dd524b7db81a440e92004d8a
+run_name: classy-eel-325
+run_uuid: 112bebf4dd524b7db81a440e92004d8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714142780503
+status: 3
+tags: []
+user_id: a

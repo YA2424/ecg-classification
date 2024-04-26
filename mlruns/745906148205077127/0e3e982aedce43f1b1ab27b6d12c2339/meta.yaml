@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/0e3e982aedce43f1b1ab27b6d12c2339/artifacts
+end_time: 1714142960027
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 0e3e982aedce43f1b1ab27b6d12c2339
+run_name: delicate-finch-43
+run_uuid: 0e3e982aedce43f1b1ab27b6d12c2339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714142930573
+status: 3
+tags: []
+user_id: a

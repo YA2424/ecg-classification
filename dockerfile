@@ -2,9 +2,10 @@ FROM python:3.11-slim
 
 
 COPY ./ ./
-RUN pip install -r requirements.txt
+RUN pip install poetry 
+RUN poetry install
 
 
 EXPOSE 8501
 
-CMD ["streamlit", "run", "src/app.py"]
+CMD ["streamlit", "run", "src/streamlit_app/app.py"]

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/4cbab870c53e42559b0f260a753a7283/artifacts
+end_time: 1714142731361
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 4cbab870c53e42559b0f260a753a7283
+run_name: entertaining-sow-502
+run_uuid: 4cbab870c53e42559b0f260a753a7283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714142689661
+status: 3
+tags: []
+user_id: a
