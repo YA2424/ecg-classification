@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/56a7ccc0e7ba4476ab418d8a2b48ab10/artifacts
+end_time: 1714143142357
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 56a7ccc0e7ba4476ab418d8a2b48ab10
+run_name: placid-flea-157
+run_uuid: 56a7ccc0e7ba4476ab418d8a2b48ab10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714143120949
+status: 3
+tags: []
+user_id: a

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/d5ab934a44cd462297ea0f2a97787e2a/artifacts
+end_time: 1714143049395
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: d5ab934a44cd462297ea0f2a97787e2a
+run_name: defiant-hawk-202
+run_uuid: d5ab934a44cd462297ea0f2a97787e2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714143024625
+status: 3
+tags: []
+user_id: a

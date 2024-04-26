@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/60dddcaafce246d78da7da67dac039dc/artifacts
+end_time: 1714143255310
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 60dddcaafce246d78da7da67dac039dc
+run_name: polite-stag-633
+run_uuid: 60dddcaafce246d78da7da67dac039dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714143232539
+status: 3
+tags: []
+user_id: a

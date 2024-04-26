@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/654383856422403796/496708095d0941bfb3ed438faf224620/artifacts
+end_time: 1714143268673
+entry_point_name: ''
+experiment_id: '654383856422403796'
+lifecycle_stage: active
+run_id: 496708095d0941bfb3ed438faf224620
+run_name: carefree-cow-556
+run_uuid: 496708095d0941bfb3ed438faf224620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714143255814
+status: 3
+tags: []
+user_id: a

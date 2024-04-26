@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/c420fdaeb33b4cd7976a18fff86494af/artifacts
+end_time: 1714143024605
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: c420fdaeb33b4cd7976a18fff86494af
+run_name: capable-loon-766
+run_uuid: c420fdaeb33b4cd7976a18fff86494af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714143000108
+status: 3
+tags: []
+user_id: a

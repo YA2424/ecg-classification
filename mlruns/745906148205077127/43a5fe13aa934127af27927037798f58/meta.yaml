@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/43a5fe13aa934127af27927037798f58/artifacts
+end_time: 1714142780500
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 43a5fe13aa934127af27927037798f58
+run_name: tasteful-pig-619
+run_uuid: 43a5fe13aa934127af27927037798f58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714142731365
+status: 3
+tags: []
+user_id: a

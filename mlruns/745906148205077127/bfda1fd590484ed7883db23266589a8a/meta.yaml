@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/bfda1fd590484ed7883db23266589a8a/artifacts
+end_time: 1714143195196
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: bfda1fd590484ed7883db23266589a8a
+run_name: intrigued-shad-937
+run_uuid: bfda1fd590484ed7883db23266589a8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714143168719
+status: 3
+tags: []
+user_id: a

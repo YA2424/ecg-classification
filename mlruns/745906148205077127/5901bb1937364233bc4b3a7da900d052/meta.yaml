@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/5901bb1937364233bc4b3a7da900d052/artifacts
+end_time: 1714143168701
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 5901bb1937364233bc4b3a7da900d052
+run_name: valuable-croc-236
+run_uuid: 5901bb1937364233bc4b3a7da900d052
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714143142382
+status: 3
+tags: []
+user_id: a

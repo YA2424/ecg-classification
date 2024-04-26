@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/6dcf1351808548889e2c1e7c65b1a57e/artifacts
+end_time: 1714142880518
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 6dcf1351808548889e2c1e7c65b1a57e
+run_name: stylish-hound-68
+run_uuid: 6dcf1351808548889e2c1e7c65b1a57e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714142855345
+status: 3
+tags: []
+user_id: a

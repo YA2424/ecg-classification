@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/be32c76fa19f4e9982fb0f5e9cc3b767/artifacts
+end_time: 1714142689655
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: be32c76fa19f4e9982fb0f5e9cc3b767
+run_name: popular-stag-7
+run_uuid: be32c76fa19f4e9982fb0f5e9cc3b767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714142665392
+status: 3
+tags: []
+user_id: a

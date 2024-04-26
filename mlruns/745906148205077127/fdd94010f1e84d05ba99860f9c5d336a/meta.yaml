@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/fdd94010f1e84d05ba99860f9c5d336a/artifacts
+end_time: 1714142855342
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: fdd94010f1e84d05ba99860f9c5d336a
+run_name: nimble-sheep-44
+run_uuid: fdd94010f1e84d05ba99860f9c5d336a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714142809879
+status: 3
+tags: []
+user_id: a

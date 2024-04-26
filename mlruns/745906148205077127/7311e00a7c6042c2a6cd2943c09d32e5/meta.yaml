@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/7311e00a7c6042c2a6cd2943c09d32e5/artifacts
+end_time: 1714143000083
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 7311e00a7c6042c2a6cd2943c09d32e5
+run_name: awesome-horse-860
+run_uuid: 7311e00a7c6042c2a6cd2943c09d32e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714142960030
+status: 3
+tags: []
+user_id: a
