@@ -8,4 +8,4 @@ RUN poetry install
 
 EXPOSE 8501
 
-CMD ["streamlit", "run", "src/streamlit_app/app.py"]
+CMD ["streamlit", "run", "src/time_series_classification/streamlit_app/app.py"]
