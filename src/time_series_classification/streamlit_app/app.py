@@ -29,8 +29,14 @@ if st.button('random sample') :
     
     
     # Make prediction and display
-    y_pred = np.argmax(model.predict(X_valid[index:index+1].astype('float64')),axis=1)
-    st.write(f'Predicted class: {labels[y_pred[0]]}')
-    st.write(f'Actual class: {labels[label]}')
+    y_pred = np.argmax(model.predict(X_valid[index:index+1].astype('float32')),axis=1)
+    actual_label = labels[label]
+    predicted_label = labels[y_pred[0]]
 
+    st.write(f'Actual class: {actual_label}')
+    if actual_label == predicted_label :
+        st.write(f'Predicted class:<span style="color:green"> {predicted_label}</span>', unsafe_allow_html=True)
+    else:
+        st.write(f'Predicted class:<span style="color:red"> {predicted_label}</span>', unsafe_allow_html=True)
+    
     
