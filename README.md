@@ -56,6 +56,7 @@ To set up the project environment, follow these steps:
 6. Run streamlit app
     ```bash
     streamlit run src/time_series_classification/streamlit_app/app.py
+    ```
 
 7. (Optional) If you prefer Docker deployment, build the Docker image:
 
