@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/f3c2784fd83c4dc28e26b813b642b999/artifacts
+end_time: 1726820885064
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: f3c2784fd83c4dc28e26b813b642b999
+run_name: nebulous-fawn-648
+run_uuid: f3c2784fd83c4dc28e26b813b642b999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726820853964
+status: 3
+tags: []
+user_id: A

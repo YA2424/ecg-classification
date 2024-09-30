@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/fbfc53c5bc30435294905087429c8d78/artifacts
+end_time: 1726820798132
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: fbfc53c5bc30435294905087429c8d78
+run_name: honorable-kite-71
+run_uuid: fbfc53c5bc30435294905087429c8d78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726820757891
+status: 3
+tags: []
+user_id: A

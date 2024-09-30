@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/5c2e2cea54814dad8a3b2424b533e0fc/artifacts
+end_time: 1726820597447
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 5c2e2cea54814dad8a3b2424b533e0fc
+run_name: clumsy-lark-602
+run_uuid: 5c2e2cea54814dad8a3b2424b533e0fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726820545709
+status: 3
+tags: []
+user_id: A

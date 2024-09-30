@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/202e2c2337a448fba0345af37515011c/artifacts
+end_time: 1727433271870
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 202e2c2337a448fba0345af37515011c
+run_name: nebulous-zebra-77
+run_uuid: 202e2c2337a448fba0345af37515011c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727433234462
+status: 3
+tags: []
+user_id: A

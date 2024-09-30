@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/f6ef08bca9754c2a92ed95f03a319fc1/artifacts
+end_time: 1726820686952
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: f6ef08bca9754c2a92ed95f03a319fc1
+run_name: mysterious-fly-261
+run_uuid: f6ef08bca9754c2a92ed95f03a319fc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726820657815
+status: 3
+tags: []
+user_id: A

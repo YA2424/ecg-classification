@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/7d804651d7104d17a7e05167f2f355ac/artifacts
+end_time: 1726820507113
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 7d804651d7104d17a7e05167f2f355ac
+run_name: blushing-owl-788
+run_uuid: 7d804651d7104d17a7e05167f2f355ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726820486727
+status: 3
+tags: []
+user_id: A

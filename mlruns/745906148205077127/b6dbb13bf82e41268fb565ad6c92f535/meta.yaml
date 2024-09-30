@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/b6dbb13bf82e41268fb565ad6c92f535/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: b6dbb13bf82e41268fb565ad6c92f535
+run_name: resilient-dove-198
+run_uuid: b6dbb13bf82e41268fb565ad6c92f535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726820597464
+status: 1
+tags: []
+user_id: A

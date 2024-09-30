@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/0240ea591fc94f3ea98a6ccab23a46c0/artifacts
+end_time: 1726939873952
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 0240ea591fc94f3ea98a6ccab23a46c0
+run_name: bald-quail-48
+run_uuid: 0240ea591fc94f3ea98a6ccab23a46c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726939815927
+status: 3
+tags: []
+user_id: A

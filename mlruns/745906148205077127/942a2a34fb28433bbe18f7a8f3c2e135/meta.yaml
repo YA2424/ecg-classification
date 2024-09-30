@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/942a2a34fb28433bbe18f7a8f3c2e135/artifacts
+end_time: 1727433185337
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 942a2a34fb28433bbe18f7a8f3c2e135
+run_name: auspicious-panda-368
+run_uuid: 942a2a34fb28433bbe18f7a8f3c2e135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727433175511
+status: 3
+tags: []
+user_id: A

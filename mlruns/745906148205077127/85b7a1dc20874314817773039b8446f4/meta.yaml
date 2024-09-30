@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/85b7a1dc20874314817773039b8446f4/artifacts
+end_time: 1727433234396
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 85b7a1dc20874314817773039b8446f4
+run_name: amazing-penguin-822
+run_uuid: 85b7a1dc20874314817773039b8446f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727433223264
+status: 3
+tags: []
+user_id: A

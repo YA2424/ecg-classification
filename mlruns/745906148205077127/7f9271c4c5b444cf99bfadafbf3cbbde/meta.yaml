@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/7f9271c4c5b444cf99bfadafbf3cbbde/artifacts
+end_time: 1726940024776
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 7f9271c4c5b444cf99bfadafbf3cbbde
+run_name: adaptable-calf-576
+run_uuid: 7f9271c4c5b444cf99bfadafbf3cbbde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726940005460
+status: 3
+tags: []
+user_id: A

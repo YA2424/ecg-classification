@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/83d3a15855f44b119e973e4e01cc4264/artifacts
+end_time: 1726820757872
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 83d3a15855f44b119e973e4e01cc4264
+run_name: shivering-whale-211
+run_uuid: 83d3a15855f44b119e973e4e01cc4264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726820706621
+status: 3
+tags: []
+user_id: A

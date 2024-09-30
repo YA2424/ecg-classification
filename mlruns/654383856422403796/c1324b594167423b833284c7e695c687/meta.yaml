@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/654383856422403796/c1324b594167423b833284c7e695c687/artifacts
+end_time: 1726940213347
+entry_point_name: ''
+experiment_id: '654383856422403796'
+lifecycle_stage: active
+run_id: c1324b594167423b833284c7e695c687
+run_name: unruly-kite-500
+run_uuid: c1324b594167423b833284c7e695c687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726940179371
+status: 3
+tags: []
+user_id: A

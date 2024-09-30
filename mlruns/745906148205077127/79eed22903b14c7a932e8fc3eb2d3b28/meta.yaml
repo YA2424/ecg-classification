@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/79eed22903b14c7a932e8fc3eb2d3b28/artifacts
+end_time: 1726820545678
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 79eed22903b14c7a932e8fc3eb2d3b28
+run_name: delightful-kit-872
+run_uuid: 79eed22903b14c7a932e8fc3eb2d3b28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726820507143
+status: 3
+tags: []
+user_id: A

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/a93ae5bd56a740a09d6ce57c11e4a829/artifacts
+end_time: 1726820836725
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: a93ae5bd56a740a09d6ce57c11e4a829
+run_name: gaudy-squid-180
+run_uuid: a93ae5bd56a740a09d6ce57c11e4a829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726820798147
+status: 3
+tags: []
+user_id: A

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/1ffae47f0d6b4dccb13f55aacccf769f/artifacts
+end_time: 1727433203325
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 1ffae47f0d6b4dccb13f55aacccf769f
+run_name: bemused-boar-296
+run_uuid: 1ffae47f0d6b4dccb13f55aacccf769f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727433193306
+status: 3
+tags: []
+user_id: A

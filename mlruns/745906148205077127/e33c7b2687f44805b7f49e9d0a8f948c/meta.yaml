@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/e33c7b2687f44805b7f49e9d0a8f948c/artifacts
+end_time: 1727433212679
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: e33c7b2687f44805b7f49e9d0a8f948c
+run_name: stylish-perch-78
+run_uuid: e33c7b2687f44805b7f49e9d0a8f948c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727433203368
+status: 3
+tags: []
+user_id: A

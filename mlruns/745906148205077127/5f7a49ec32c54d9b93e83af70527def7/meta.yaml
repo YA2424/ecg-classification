@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/5f7a49ec32c54d9b93e83af70527def7/artifacts
+end_time: 1726940179323
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 5f7a49ec32c54d9b93e83af70527def7
+run_name: thoughtful-calf-969
+run_uuid: 5f7a49ec32c54d9b93e83af70527def7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726940125454
+status: 3
+tags: []
+user_id: A

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/cf7ba5659d784779a3fc2b1ee31d27cc/artifacts
+end_time: 1726820310219
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: cf7ba5659d784779a3fc2b1ee31d27cc
+run_name: bustling-ant-662
+run_uuid: cf7ba5659d784779a3fc2b1ee31d27cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726820280477
+status: 4
+tags: []
+user_id: A

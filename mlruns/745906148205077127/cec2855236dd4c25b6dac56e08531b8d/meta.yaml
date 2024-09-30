@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/cec2855236dd4c25b6dac56e08531b8d/artifacts
+end_time: 1726820853948
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: cec2855236dd4c25b6dac56e08531b8d
+run_name: fun-dolphin-931
+run_uuid: cec2855236dd4c25b6dac56e08531b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726820836752
+status: 3
+tags: []
+user_id: A

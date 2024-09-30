@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/7013b0e74a4d4705822177bd1c9dc240/artifacts
+end_time: 1726940066986
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 7013b0e74a4d4705822177bd1c9dc240
+run_name: secretive-mink-307
+run_uuid: 7013b0e74a4d4705822177bd1c9dc240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726940044431
+status: 3
+tags: []
+user_id: A

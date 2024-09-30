@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/d722ffc82638475cb37bb11eb81ea7a1/artifacts
+end_time: 1726940086421
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: d722ffc82638475cb37bb11eb81ea7a1
+run_name: skillful-goat-490
+run_uuid: d722ffc82638475cb37bb11eb81ea7a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726940067033
+status: 3
+tags: []
+user_id: A

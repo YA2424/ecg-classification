@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/7fc564fc4fb5485fb98e8f49cdf8f365/artifacts
+end_time: 1727433175463
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 7fc564fc4fb5485fb98e8f49cdf8f365
+run_name: resilient-koi-882
+run_uuid: 7fc564fc4fb5485fb98e8f49cdf8f365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727433167342
+status: 3
+tags: []
+user_id: A

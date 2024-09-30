@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/7b22f64baa934eeba0dda83dd5a61767/artifacts
+end_time: 1726939958259
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 7b22f64baa934eeba0dda83dd5a61767
+run_name: dapper-shad-724
+run_uuid: 7b22f64baa934eeba0dda83dd5a61767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726939912486
+status: 3
+tags: []
+user_id: A

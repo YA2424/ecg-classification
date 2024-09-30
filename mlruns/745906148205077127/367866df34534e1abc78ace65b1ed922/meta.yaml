@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/367866df34534e1abc78ace65b1ed922/artifacts
+end_time: 1726820955471
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 367866df34534e1abc78ace65b1ed922
+run_name: sincere-smelt-455
+run_uuid: 367866df34534e1abc78ace65b1ed922
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726820914967
+status: 3
+tags: []
+user_id: A

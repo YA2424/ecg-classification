@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/9d842e7e1f794ad58fd1db2f7bc864fc/artifacts
+end_time: 1726939912457
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 9d842e7e1f794ad58fd1db2f7bc864fc
+run_name: exultant-panda-964
+run_uuid: 9d842e7e1f794ad58fd1db2f7bc864fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726939873976
+status: 3
+tags: []
+user_id: A

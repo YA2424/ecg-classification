@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/2ec85bd05c414a29bd75bf5793969a56/artifacts
+end_time: 1726940005422
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: 2ec85bd05c414a29bd75bf5793969a56
+run_name: kindly-deer-272
+run_uuid: 2ec85bd05c414a29bd75bf5793969a56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726939958282
+status: 3
+tags: []
+user_id: A

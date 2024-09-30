@@ -1,0 +1,15 @@
+artifact_uri: file:///home/a/Bureau/Time-series-classification/mlruns/745906148205077127/f5aea9bf71384bc0a5852823688eac20/artifacts
+end_time: 1726820454877
+entry_point_name: ''
+experiment_id: '745906148205077127'
+lifecycle_stage: active
+run_id: f5aea9bf71384bc0a5852823688eac20
+run_name: bouncy-shark-369
+run_uuid: f5aea9bf71384bc0a5852823688eac20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726820417372
+status: 3
+tags: []
+user_id: A
